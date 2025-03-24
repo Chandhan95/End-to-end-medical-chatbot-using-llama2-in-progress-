@@ -6,4 +6,9 @@
   
 ``` bash
 conda run -n mchatbot python
+```
+``` bash
+pip install -r requirements.txt
+```
+
 
